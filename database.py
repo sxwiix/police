@@ -8,7 +8,7 @@ from dateutil.parser import parse
 DATABASE_URL = "postgresql://postgres:sa@localhost:5431/police"
 
 # Путь к CSV файлу
-CSV_FILE_PATH = r'C:\Users\hqmnd\Desktop\police\police-department-calls-for-service.csv'
+CSV_FILE_PATH = r'C:\Users\hqmnd\Desktop\police-department-calls-for-service.csv'
 
 # Определение базовой модели (базового класса)
 base = declarative_base()

@@ -1,0 +1,16 @@
+5 строк до найденной строки:
+           Crime Id  Original Crime Type Name    Report Date          Call Date            Offense Date         Call Time    Call Date Time       Disposition    Address                            City           State      Agency Id  Address Type       Common Location
+2025340   182523985  Passing Call                2018-09-09T00:00:00  2018-09-09T00:00:00  2018-09-09T00:00:00  23:36        2018-09-09T23:36:00  HAN            600 Block Of Wawona St             San Francisco  CA                 1  Premise Address                nan
+2025341   182523989  Passing Call                2018-09-09T00:00:00  2018-09-09T00:00:00  2018-09-09T00:00:00  23:38        2018-09-09T23:38:00  HAN            1400 Block Of Ulloa St             San Francisco  CA                 1  Premise Address                nan
+2025342   182523990  Wanted Vehicle / Sub        2018-09-09T00:00:00  2018-09-09T00:00:00  2018-09-09T00:00:00  23:36        2018-09-09T23:36:00  Not recorded   Cesar Chavez St/101nb C Chavez On  San Francisco  CA                 1  Intersection                   nan
+2025343   182523995  Passing Call                2018-09-09T00:00:00  2018-09-09T00:00:00  2018-09-09T00:00:00  23:42        2018-09-09T23:42:00  HAN            100 Block Of Crestlake Dr          San Francisco  CA                 1  Premise Address                nan
+2025344   182524003  Passing Call                2018-09-09T00:00:00  2018-09-09T00:00:00  2018-09-09T00:00:00  23:44        2018-09-09T23:44:00  HAN            1500 Block Of Sloat Bl             San Francisco  CA                 1  Premise Address                nan
+
+Найденная строка (Количество столбцов в строке: 14):
+           Crime Id  Original Crime Type Name    Report Date          Call Date            Offense Date         Call Time    Call Date Time       Disposition    Address            City           State      Agency Id  Address Type      Common Location
+2025345   182524010  Traffic Stop                2018-09-09T00:00:00  2018-09-09T00:00:00  2018-09-09T00:00:00  23:48        2018-09-09T23:48:00  ADV            Market St/post St  San Francisco  CA                 1  Intersection                  nan
+
+5 строк после найденной строки:
+           Crime Id  Original Crime Type Name    Report Date          Call Date            Offense Date         Call Time    Call Date Time       Disposition    Address                City           State      Agency Id  Address Type      Common Location
+2025346   182524011  Audible Alarm               2018-09-09T00:00:00  2018-09-09T00:00:00  2018-09-09T00:00:00  23:46        2018-09-09T23:46:00  PAS            3200 Block Of 20th Av  San Francisco  CA                 1  Premise Addres                nan
+
